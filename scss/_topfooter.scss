@@ -1,0 +1,16 @@
+.topfooter{
+    .topfooter_wrapper{
+        display: flex;
+        align-items: center;
+        margin-top: 50px;
+        gap: 12px;
+    }
+    .topfooter_card-right{
+        width: 987px;
+        height: 364px;
+        padding: 26px 40px;
+        background: #F5F5F5;
+        border-radius: 10px;
+        
+    }
+}
